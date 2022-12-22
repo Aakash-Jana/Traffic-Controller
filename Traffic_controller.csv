@@ -1,0 +1,67 @@
+To,    Assignment Name, Value
+overclock,  Location,   PIN_AB25
+
+ovled , Location, PIN_G17
+clk, Location , PIN_E22
+reset_out, Location, PIN_E21
+reset, Location, PIN_M23
+westbound_red,  Location,   PIN_M24
+westbound_green,  Location,   PIN_W22
+westbound_amber,  Location,   PIN_U24
+
+
+eastbound_red,  Location,   PIN_V21
+eastbound_green,  Location,   PIN_AA21
+eastbound_amber,  Location,   PIN_Y19
+
+
+southbound_red,  Location,   PIN_AD18
+southbound_green,  Location,   PIN_AH19
+southbound_amber,  Location,   PIN_AH18
+
+
+northbound_red,  Location,   PIN_AD17
+northbound_green,  Location,   PIN_AH17
+northbound_amber,  Location,   PIN_AA14
+clk_27,  Location,   PIN_B14
+
+left_turn_request, Location, PIN_M21
+
+southbound_walk[0], Location, PIN_AB19
+southbound_walk[1], Location, PIN_AA19
+southbound_walk[2], Location, PIN_AG21
+southbound_walk[3], Location, PIN_AH21
+southbound_walk[4], Location, PIN_AE19
+southbound_walk[5], Location, PIN_AF19
+southbound_walk[6], Location, PIN_AE18
+
+northbound_walk[0], Location, PIN_AA17
+northbound_walk[1], Location, PIN_AB16
+northbound_walk[2], Location, PIN_AA16
+northbound_walk[3], Location, PIN_AB17
+northbound_walk[4], Location, PIN_AB15
+northbound_walk[5], Location, PIN_AA15
+northbound_walk[6], Location, PIN_AC17
+
+eastbound_walk[0], Location, PIN_AA25
+eastbound_walk[1], Location, PIN_AA26
+eastbound_walk[2], Location, PIN_Y25
+eastbound_walk[3], Location, PIN_W26
+eastbound_walk[4], Location, PIN_Y26
+eastbound_walk[5], Location, PIN_W27
+eastbound_walk[6], Location, PIN_W28
+
+westbound_walk[0], Location, PIN_G18
+westbound_walk[1], Location, PIN_F22
+westbound_walk[2], Location, PIN_E17
+westbound_walk[3], Location, PIN_L26
+westbound_walk[4], Location, PIN_L25
+westbound_walk[5], Location, PIN_J22
+westbound_walk[6], Location, PIN_H22
+
+nbnd_walk_req, Location, PIN_N21
+
+ebnd_walk_req, Location, PIN_R24
+
+left_turn_signal[0] , Location, PIN_AC18
+left_turn_signal[1] , Location, PIN_AB18

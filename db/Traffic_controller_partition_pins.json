@@ -1,0 +1,197 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ovled",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "reset_out",
+					"strict" : false
+				},
+				{
+					"name" : "northbound_green",
+					"strict" : false
+				},
+				{
+					"name" : "northbound_amber",
+					"strict" : false
+				},
+				{
+					"name" : "northbound_red",
+					"strict" : false
+				},
+				{
+					"name" : "southbound_green",
+					"strict" : false
+				},
+				{
+					"name" : "southbound_amber",
+					"strict" : false
+				},
+				{
+					"name" : "southbound_red",
+					"strict" : false
+				},
+				{
+					"name" : "eastbound_green",
+					"strict" : false
+				},
+				{
+					"name" : "eastbound_amber",
+					"strict" : false
+				},
+				{
+					"name" : "eastbound_red",
+					"strict" : false
+				},
+				{
+					"name" : "westbound_green",
+					"strict" : false
+				},
+				{
+					"name" : "westbound_amber",
+					"strict" : false
+				},
+				{
+					"name" : "westbound_red",
+					"strict" : false
+				},
+				{
+					"name" : "southbound_walk[1]",
+					"strict" : false
+				},
+				{
+					"name" : "southbound_walk[2]",
+					"strict" : false
+				},
+				{
+					"name" : "southbound_walk[3]",
+					"strict" : false
+				},
+				{
+					"name" : "southbound_walk[4]",
+					"strict" : false
+				},
+				{
+					"name" : "southbound_walk[5]",
+					"strict" : false
+				},
+				{
+					"name" : "southbound_walk[6]",
+					"strict" : false
+				},
+				{
+					"name" : "northbound_walk[1]",
+					"strict" : false
+				},
+				{
+					"name" : "northbound_walk[2]",
+					"strict" : false
+				},
+				{
+					"name" : "northbound_walk[3]",
+					"strict" : false
+				},
+				{
+					"name" : "northbound_walk[4]",
+					"strict" : false
+				},
+				{
+					"name" : "northbound_walk[5]",
+					"strict" : false
+				},
+				{
+					"name" : "northbound_walk[6]",
+					"strict" : false
+				},
+				{
+					"name" : "eastbound_walk[1]",
+					"strict" : false
+				},
+				{
+					"name" : "eastbound_walk[2]",
+					"strict" : false
+				},
+				{
+					"name" : "eastbound_walk[3]",
+					"strict" : false
+				},
+				{
+					"name" : "eastbound_walk[4]",
+					"strict" : false
+				},
+				{
+					"name" : "eastbound_walk[5]",
+					"strict" : false
+				},
+				{
+					"name" : "eastbound_walk[6]",
+					"strict" : false
+				},
+				{
+					"name" : "westbound_walk[1]",
+					"strict" : false
+				},
+				{
+					"name" : "westbound_walk[2]",
+					"strict" : false
+				},
+				{
+					"name" : "westbound_walk[3]",
+					"strict" : false
+				},
+				{
+					"name" : "westbound_walk[4]",
+					"strict" : false
+				},
+				{
+					"name" : "westbound_walk[5]",
+					"strict" : false
+				},
+				{
+					"name" : "westbound_walk[6]",
+					"strict" : false
+				},
+				{
+					"name" : "left_turn_signal[0]",
+					"strict" : false
+				},
+				{
+					"name" : "left_turn_signal[1]",
+					"strict" : false
+				},
+				{
+					"name" : "overclock",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "clk_27",
+					"strict" : false
+				},
+				{
+					"name" : "left_turn_request",
+					"strict" : false
+				},
+				{
+					"name" : "nbnd_walk_req",
+					"strict" : false
+				},
+				{
+					"name" : "ebnd_walk_req",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
